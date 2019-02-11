@@ -7,4 +7,4 @@ Initially, Dryline was an attempt at a "manufacture on demand" product to supple
 
 Dryline is released to the public under a Creative Commons 4.0 licence, with attribution, non-commercial and share-alike conditions. Feel free to alter the code for the better, fork or otherwise use, provided my CC4 conditions are met.
 
-I am still willing to make on demand for those who don't have a 3D printer adequate CNC to make their own. Find the PayPal secure order form at http://clunkerbike.com/dryline for a fee for my time and filament.
+I am still willing to make on demand for those who don't have a 3D printer or adequate CNC to make their own. Find the PayPal secure order form at http://clunkerbike.com/dryline for a fee for my time and filament.
